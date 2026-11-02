@@ -14,12 +14,12 @@
 
 ### 🌐 Connect with me | Me retrouver
 
-<p align="center">
+ <p align="center">
   <a href="https://www.instagram.com/mpindu_dev/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="65" height="65"/>
   </a>
-  &emsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@mpindu_dev">
-    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" alt="TikTok" width="65" height="65"/>
   </a>
 </p>

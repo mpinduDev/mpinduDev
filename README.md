@@ -49,14 +49,13 @@ Currently training at **La Capsule**, I'm improving my coding skills, exploring 
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpinduDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpinduDev&theme=tokyonight" width="100%" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinduDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mpinduDev&theme=tokyonight" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpinduDev&theme=tokyonight" height="165" alt="Top Languages"/>
 </p>
 
 ---

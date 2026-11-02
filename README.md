@@ -52,8 +52,11 @@ Currently training at **La Capsule**, I'm improving my coding skills, exploring 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpinduDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinduDev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mpinduDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpinduDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

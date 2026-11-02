@@ -13,6 +13,13 @@
 - New Technologies | Nouvelles technologies
 
 ### 🌐 Connect with me | Me retrouver
+
 <p align="center">
-  <img src="./assets/social-links.png" alt="Connect with me - Instagram and TikTok" width="700"/>
+  <a href="https://www.instagram.com/mpindu_dev/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@mpindu_dev">
+    <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
 </p>

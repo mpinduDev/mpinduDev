@@ -13,14 +13,14 @@
 
 Bienvenue sur mon profil GitHub !
 
-Je suis passionné par le développement informatique, les nouvelles technologies et l'intelligence artificielle.
+Je suis passionné par le développement logiciel, les nouvelles technologies et l'intelligence artificielle.
 
-Actuellement en formation chez **La Capsule**, je développe mes compétences, j'explore de nouvelles technologies et je construis des projets pour progresser chaque jour.
+Actuellement en formation chez **La Capsule**, je renforce mes compétences, j'explore de nouveaux outils et je construis des projets pour progresser chaque jour.
 
-- 💻 J'apprends et je développe mes compétences en programmation.
+- 💻 Je développe des applications web, du back-end au front-end.
 - 🤖 Je m'intéresse à l'intelligence artificielle et à ses applications.
 - 🚀 Je construis des projets et je partage mon évolution.
-- 🎯 Mon objectif : apprendre continuellement et créer des solutions utiles.
+- 🎯 Mon objectif : apprendre en continu et créer des solutions utiles.
 
 ## 🇬🇧 About me
 
@@ -28,22 +28,26 @@ Welcome to my GitHub profile!
 
 I'm passionate about software development, emerging technologies, and artificial intelligence.
 
-Currently training at **La Capsule**, I'm improving my coding skills, exploring new technologies, and building projects along the way.
+Currently training at **La Capsule**, I'm sharpening my skills, exploring new tools, and building projects along the way.
 
-- 💻 Learning and improving my programming skills.
-- 🤖 Exploring Artificial Intelligence and its applications.
+- 💻 Building web applications, from back end to front end.
+- 🤖 Exploring artificial intelligence and its applications.
 - 🚀 Building projects and sharing my journey.
 - 🎯 My goal: keep learning and create useful solutions.
 
 ---
 
-## 🛠️ Technologies & Interests
+## 🛠️ Tech Stack
 
-- Software Development
-- Artificial Intelligence
-- Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,js,vue,react,angular,docker,git,linux" alt="Tech stack"/>
+</p>
+
+## 🔭 Interests
+
+- Artificial Intelligence & Machine Learning
 - Automation
-- New Technologies
+- DevOps & Data Engineering
 
 ---
 
@@ -63,12 +67,23 @@ Currently training at **La Capsule**, I'm improving my coding skills, exploring 
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.instagram.com/mpindu_dev/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="55" alt="Instagram"/>
+  <a href="https://www.linkedin.com/in/TON-PROFIL/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:TON-EMAIL@exemple.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mpindu_dev/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@mpindu_dev">
-    <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="55" alt="TikTok"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/FFFFFF">
+      <img src="https://cdn.simpleicons.org/tiktok/000000" width="45" alt="TikTok"/>
+    </picture>
   </a>
 </p>
 

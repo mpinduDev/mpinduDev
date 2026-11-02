@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/mpindu_dev/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &emsp;
   <a href="https://www.tiktok.com/@mpindu_dev">
     <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>

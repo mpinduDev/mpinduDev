@@ -15,11 +15,11 @@
 ### 🌐 Connect with me | Me retrouver
 
  <p align="center">
-  <a href="https://www.instagram.com/mpindu_dev/">
+  <a href="https://www.instagram.com/mpindu_dev/" style="text-decoration:none; border:0;">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="65" height="65"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@mpindu_dev">
+  <a href="https://www.tiktok.com/@mpindu_dev" style="text-decoration:none; border:0;">
     <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" alt="TikTok" width="65" height="65"/>
   </a>
 </p>

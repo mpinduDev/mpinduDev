@@ -13,5 +13,14 @@
 - New Technologies | Nouvelles technologies
 
 ### 🌐 Connect with me | Me retrouver
-- 📸 [Instagram](https://www.instagram.com/mpindu_dev/)
-- 🎵 [TikTok](https://www.tiktok.com/@mpindu_dev/)
+## 🌐 Connect With Me | Retrouvez-moi
+
+<p align="left">
+  <a href="https://www.instagram.com/mpindu_dev/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.tiktok.com/@mpindu_dev">
+    <img src="https://cdn.simpleicons.org/tiktok/000000" alt="TikTok" width="40" height="40"/>
+  </a>
+</p>

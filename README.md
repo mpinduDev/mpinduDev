@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Mpindu | Bonjour, moi c'est Mpindu
 
-<!--
-**mpinduDev/mpinduDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | AI & Tech Enthusiast**
 
-Here are some ideas to get you started:
+🇬🇧 Passionate about software development, Artificial Intelligence and building innovative digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇫🇷 Passionné par le développement logiciel, l'intelligence artificielle et la création de solutions numériques innovantes.
+
+### 🚀 What I'm exploring | Ce que j'explore
+- Software Development | Développement logiciel
+- Artificial Intelligence | Intelligence artificielle
+- Automation | Automatisation
+- New Technologies | Nouvelles technologies
+
+### 🌐 Connect with me | Me retrouver
+- 📸 [Instagram](https://www.instagram.com/mpindu_dev/)
+- 🎵 [TikTok](https://www.tiktok.com/@mpindu_dev/)

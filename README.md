@@ -67,24 +67,13 @@ Currently training at **La Capsule**, I'm sharpening my skills, exploring new to
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TON-PROFIL/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" alt="LinkedIn"/>
-  </a>
+  <a href="https://www.linkedin.com/in/TON-PROFIL/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:TON-EMAIL@exemple.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/>
-  </a>
+  <a href="mailto:TON-EMAIL@exemple.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" alt="Email"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/mpindu_dev/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/>
-  </a>
+  <a href="https://www.instagram.com/mpindu_dev/"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" alt="Instagram"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@mpindu_dev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/FFFFFF">
-      <img src="https://cdn.simpleicons.org/tiktok/000000" width="45" alt="TikTok"/>
-    </picture>
-  </a>
+  <a href="https://www.tiktok.com/@mpindu_dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/FFFFFF"><img src="https://cdn.simpleicons.org/tiktok/000000" width="45" alt="TikTok"/></picture></a>
 </p>
 
 ---

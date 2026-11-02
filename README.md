@@ -79,6 +79,5 @@ Currently training at **La Capsule**, I'm sharpening my skills, exploring new to
 ---
 
 <p align="center">
-  <strong>NO PRESSURE. JUST WORK.</strong><br/>
-  <em>Keep learning. Keep building. Keep growing. 🚀</em>
+  <strong>NO PRESSURE. JUST WORK.</strong>
 </p>
